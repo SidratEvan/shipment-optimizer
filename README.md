@@ -56,13 +56,12 @@ yaml
 
 ## How to Run
 ``bash
-# Compile
+Compile
 javac Main.java
-# Run
+Run
 java Main
 
-
-Why This Project?
+## Why This Project?
 Mining companies rely on logistics optimization every day.
 This project demonstrates:
 
