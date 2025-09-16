@@ -1,0 +1,9 @@
+# Ignore compiled class files
+*.class
+
+# Ignore CSV history logs (generated during runs)
+history.csv
+
+# Ignore macOS/Windows system files
+.DS_Store
+Thumbs.db
