@@ -56,9 +56,9 @@ yaml
 
 ## How to Run
 ``bash
-Compile
+#Compile
 javac Main.java
-Run
+#Run
 java Main
 
 ## Why This Project?
